@@ -70,6 +70,10 @@
   text-decoration: none;
 }
 
+.links a{
+  text-decoration: none;
+}
+
 .images li{
   display: inline-block;
 }
